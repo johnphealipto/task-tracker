@@ -5,6 +5,12 @@
       "text": "Meeting at School",
       "day": "May 6th at 1:30pm",
       "reminder": true
+    },
+    {
+      "text": "Angular Crash",
+      "day": "Feb 14th at 9:00am",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
